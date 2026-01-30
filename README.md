@@ -3,7 +3,7 @@ An autonomous data agent that predicts bank deposit subscriptions and provides A
 
 ## Project Highlights
 - **Leakage-Free ML:** Engineered a pipeline that identifies and removes predictive bias (e.g., call duration) to ensure real-world reliability.
-- **Agentic Reasoning:** Integrated Gemini 3 Flash to translate complex model coefficients into executive business strategies.
+- **Agentic Reasoning:** Integrated Gemini 2.5 Flash to translate complex model coefficients into executive business strategies.
 - **Interactive Dashboard:** Built a Streamlit interface for seamless CSV data processing and visualization.
 
 ## Tech Stack
