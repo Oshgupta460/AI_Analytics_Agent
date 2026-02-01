@@ -13,7 +13,7 @@ An autonomous data agent that predicts bank deposit subscriptions and provides A
 - **UI:** Streamlit
 
 ## How to Run
-1. Clone this repo.
+1. Clone this repo: https://github.com/Oshgupta460/AI_Analytics_Agent.git
 2. Install libraries: `pip install -r requirements.txt`
 3. Add your `GOOGLE_API_KEY` to a `.env` file.
 4. Run: `streamlit run app.py`
